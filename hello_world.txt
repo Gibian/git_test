@@ -1,2 +1,2 @@
 This might be where I add in the code for hello world when i start learning a language
-Or its just here for me to test how Git works with GitHub to allow for version control.
+Or its just here for me to test how Git works with GitHub to allow for version
